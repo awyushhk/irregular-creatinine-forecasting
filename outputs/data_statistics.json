@@ -1,0 +1,10 @@
+{
+    "dataset": "MIMIC-IV Demo v2.2",
+    "number_of_patients": 98,
+    "raw_observation_count": 2999,
+    "daily_observation_count": 2321,
+    "temporal_compression_percentage": 22.60753584528176,
+    "median_observation_interval_hours": 23.066666666666666,
+    "mean_observation_interval_hours": 406.8421808571756,
+    "maximum_observation_interval_hours": 38644.333333333336
+}

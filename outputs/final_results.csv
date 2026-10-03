@@ -1,0 +1,2 @@
+Missingness_Pct,Evaluation_Samples,Baseline_MAE,Proposed_MAE,Baseline_RMSE,Proposed_RMSE,Baseline_R2,Proposed_R2,MAE_Improvement_Pct,Target_Timestamp_Mismatches,Target_Value_Mismatches,Sample_ID_Mismatches
+0,271,0.22722050725800316,0.21219557195571942,0.3718433294385317,0.35058114641463844,0.8766183996603005,0.8903250303943133,6.612490872235977,0,0.0,0
